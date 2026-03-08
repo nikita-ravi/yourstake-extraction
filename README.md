@@ -1,7 +1,5 @@
 # YourStake Holdings Extraction Pipeline
 
-**Data Engineer Take-Home — Nikita Ravi**
-
 ## Overview
 
 This project extracts structured investment holdings from a Fidelity brokerage
