@@ -1,0 +1,14 @@
+,0,1,2
+0,Income Summary,This Period,Year-to-Date
+1,Taxable,$178.53,"$2,839.92"
+2,Dividends,178.53,"1,548.74"
+3,Interest,-,10.25
+4,Short-term Capital Gains,-,255.68
+5,Long-term Capital Gains,-,"1,025.25"
+6,Tax-exempt,$372.10,"$3,384.74"
+7,Dividends,-,"1,725.87"
+8,Interest,372.10,"1,658.87"
+9,Tax-deferred,$500.31,"$7,020.49"
+10,Return of Capital,"$4,000.00","$8,500.00"
+11,Liquidations,-,"$1,576.16"
+12,Total,"$5,050.94","$23,278.62"

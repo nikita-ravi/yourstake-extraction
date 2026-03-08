@@ -1,0 +1,7 @@
+,0,1,2,3
+0,Trans. Date,Post Date,Location Reference/ Description,Transaction Total
+1,8/3,8/6,"ATM0213 1224 TOWN CEN, HOUSTON, TX, 9842312ZF6JW2ZAD",-$203.00
+2,8/6,8/10,"BEST DONUTS, SPRING, TX, 5465542ASKD620ASD",-6.03
+3,8/11,8/15,"MARSHALLS #0506, THE WOODLANDS, TX, 16510SKJF351321DDS",86.58
+4,VISA Gold,Check Card (...8888),Subtotal,-$122.45
+5,Total Debit,Card Activity,,"-$1,594.13"

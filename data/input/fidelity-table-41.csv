@@ -1,0 +1,7 @@
+,0,1,2,3
+0,Date,Security,Description,Amount
+1,7/15,SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF,Federal tax paid,-399.11
+2,Total,Federal Taxes Withheld,,-$399.11
+3,Total,State Taxes Withheld,,-$123.78
+4,Total,Foreign Taxes Withheld,,-$440.12
+5,Total,Taxes Withheld,,-$963.01

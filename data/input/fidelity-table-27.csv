@@ -1,0 +1,7 @@
+,0,1,2,3
+0,Date,Reference,Transaction Description,Transaction Total
+1,7/1,,Wire transfer from bank,"$5,000.00"
+2,7/2,,Deposit received,15.00
+3,7/3,,Wire transfer from bank,400.00
+4,7/12,,Wire transfer from bank,"1,000.00"
+5,7/16,,Wire transfer from bank,"1,500.00"

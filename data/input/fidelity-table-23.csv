@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6
+0,Settlement,,Symbol/,,,,Transaction
+1,Date,Security Name,CUSIP,Transaction Description,Quantity,Price,Amount
+2,7/31,ENSTAR GROUP LIMITED COM STK USD 1.00,ESGR,Trans. to account 222-222222,,,"-$5,000.00"
+3,Total,Securities Transferred Out,,,,,"-$5,000.00"

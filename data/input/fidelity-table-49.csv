@@ -1,0 +1,21 @@
+,0,1,2
+0,,This Period,Year-to-Date
+1,Beginning Core Account Balance,"$1,570.57",$794.51
+2,INVESTMENT ACTIVITY,,
+3,Securities Bought,- [ ],"-15,000.00"
+4,Securities Sold,- [ ],"11,278.12"
+5,"Dividends, Interest and Other Income *",500.31,"7,020.49"
+6,Transaction Costs,- [ ],-230.74
+7,Other Activity,- [ ],500.00
+8,Total Investment Activity,$500.31,"$3,567.87"
+9,CASH MANAGEMENT ACTIVITY,,
+10,Contributions,- [ ],"5,000.00"
+11,Distributions,- [ ],"-4,065.21"
+12,Taxes Withheld,- [ ],"-1,016.30"
+13,Checking Activity,- [ ],"-1,258.12"
+14,Debit Card Activity,- [ ],-125.12
+15,Deferred Debit Card Activity,- [ ],-275.89
+16,Bill Payments,- [ ],-400.00
+17,Fees & Charges,- [ ],-112.13
+18,Total Cash Management Activity,- [ ],"-$2,252.77"
+19,Ending Core Account Balance,"$2,070.88","$2,070.88"

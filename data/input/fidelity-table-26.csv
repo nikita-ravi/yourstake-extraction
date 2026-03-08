@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6,7,8
+0,Settlement Date,Security Name,Symbol/ CUSIP,Transaction Description,Quantity,Price,Cost Basis of Close,Transaction Cost,Transaction Total
+1,7/30,REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER PAYOUT #REORCM0050704800000,RFX,Merger,-4000,,unknown,,$594.10
+2,7/30,REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002,RFX,Merger,4000,,,,0.00
+3,Total Other,Activity,,,,,,,$594.10

@@ -1,0 +1,16 @@
+,0,1,2
+0,,This Period,Year-to-Date
+1,Beginning Account Value,"$147,593.80","$131,068.99"
+2,Additions,-,"12,345.97"
+3,Contributions,- [ ],"5,000.00"
+4,Securities Transferred In,- [ ],"5,509.48"
+5,Other Additions,- [ ],"1,836.49"
+6,Subtractions,- [ ],"-4,614.82"
+7,Distributions,- [ ],"-4,065.21"
+8,Securities Transferred Out,- [ ],-692.22
+9,"Cards, Checking & Bill Payments",- [ ],-461.48
+10,"Trans. Costs, Fees & Charges",-,-230.74
+11,Taxes Withheld,- [ ],-461.48
+12,Other Subtractions,-,-461.48
+13,Change in Investment Value,"-5,180.68","3,612.98"
+14,Ending Account Value,"$142,413.12","$142,413.12"

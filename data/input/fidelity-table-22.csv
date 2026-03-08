@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7
+0,Settlement,,Symbol/,,,,,Transaction
+1,Date,Security Name,CUSIP,Transaction Description,Quantity,Price,,Amount
+2,7/31,Z70-666580-1,,Trans. from account 222-222222,,,,"$39,508.64"
+3,7/31,ENSTAR GROUP LIMITED COM STK USD 1.00 Z70-666580-1,ESGR,Trans. from account 222-222222,100.000,$102.960,,"10,296.00"
+4,Total,Securities Transferred In,,,,,,"$49,804.64"
