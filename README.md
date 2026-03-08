@@ -98,6 +98,14 @@ All market value totals match the statement's "Total Holdings" rows to the penny
 
 ---
 
+## Screenshots
+
+![Screenshot 1](screenshot_1.png)
+
+![Screenshot 2](screenshot_2.png)
+
+---
+
 ## Unit Tests
 
 27 tests covering all core functions. Run with `python extract_holdings.py --test`:
